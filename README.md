@@ -3,9 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exzork&label=Profile%20views&color=0e75b6&style=flat" alt="exzork" /> </p>
 
-- 👨‍💻 I’m currently developing on my own shop [ExZork Shop](https://shop.staging.exzork.me)
+- 👨‍💻 I’m currently developing my own shop [ExZork Shop](https://shop.staging.exzork.me)
 - 🏢 Intern at [Andromedia](https://andromedia.co.id/) as a Full Stack Developer ( [Kampus Merdeka](https://sites.google.com/wartek.belajar.id/faqmahasiswakm/home/kampus-merdeka) )
 - 📫 How to reach me **muhammadekoprasetyo29@gmail.com**
+
+**Past Projects**
+- Online E-Voting System for my college's informatics department using CodeIgniter 4 [Replica EvoteCI](https://evoteci.exzork.me)
+- Offline/Online E-Voting System for my OOP Course [EvoteJava](https://github.com/exzork/EvoteJava)
+- Handwriting Javanese Character Recognition for my Computer Vision Course [Aksara NN](https://github.com/exzork/aksara_nn)
+- Decision Support System for Credit Card Category using Bayes Algorithm, native PHP and Bootstrap 3 [SPK Credit](https://spk-credit.exzork.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
