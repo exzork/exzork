@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exzork&label=Profile%20views&color=0e75b6&style=flat" alt="exzork" /> </p>
 
-- 🔭 I’m currently working on my own shop [ExZork Shop](https://shop.staging.exzork.me)
+- 👨‍💻 I’m currently developing on my own shop [ExZork Shop](https://shop.staging.exzork.me)
 - 🏢 Intern at [Andromedia](https://andromedia.co.id/) as a Full Stack Developer ( [Kampus Merdeka](https://sites.google.com/wartek.belajar.id/faqmahasiswakm/home/kampus-merdeka) )
 - 📫 How to reach me **muhammadekoprasetyo29@gmail.com**
 
