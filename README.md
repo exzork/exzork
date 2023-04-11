@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Eko Prasetyo</h1>
-<h3 align="center">3rd-year Informatics student at UPN "Veteran" East Java.</h3>
+<h3 align="center">Final-year Informatics student at UPN "Veteran" East Java.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exzork&label=Profile%20views&color=0e75b6&style=flat" alt="exzork" /> </p>
 
-- 👨‍💻 I’m currently developing my own shop [ExZork Shop](https://shop.staging.exzork.me)
-- 🏢 Intern at [Andromedia](https://andromedia.co.id/) as a Full Stack Developer ( [Kampus Merdeka](https://sites.google.com/wartek.belajar.id/faqmahasiswakm/home/kampus-merdeka) )
+- 👨‍💻 I'm currenty work at MIDSUIT by Avolut Global Indonesia as Junior Technical Consultan (iDempiere/Java/Golang/ReactJS)
 
 **Past Projects**
 - Online E-Voting System for informatics department at my univ using CodeIgniter 4 [URL:Replica EvoteCI](https://evoteci.exzork.me)
