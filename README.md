@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exzork&label=Profile%20views&color=0e75b6&style=flat" alt="exzork" /> </p>
 
-- 👨‍💻 I'm currenty work at MIDSUIT by Avolut Global Indonesia as Junior Technical Consultan (iDempiere/Java/Golang/ReactJS)
-
 **Past Projects**
 - Online E-Voting System for informatics department at my univ using CodeIgniter 4 [URL:Replica EvoteCI](https://evoteci.exzork.me)
 - Offline/Online E-Voting System for my OOP Course [Repo:EvoteJava](https://github.com/exzork/EvoteJava)
