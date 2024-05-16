@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muhammad Eko Prasetyo</h1>
-<h3 align="center">Final-year Informatics student at UPN "Veteran" East Java.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exzork&label=Profile%20views&color=0e75b6&style=flat" alt="exzork" /> </p>
 
