@@ -27,8 +27,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=exzork&show_icons=true&locale=en&range=all_time" alt="exzork" /></p>
 
-<p><img align="center" src="https://dcbadge.limes.pink/api/shield/291231194723647499" alt="exzork" /></p>
-
+![](https://dcbadge.limes.pink/api/shield/USERID)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/exzork"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="exzork" /></a></p><br><br>
