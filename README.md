@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=exzork&show_icons=true&locale=en&range=all_time" alt="exzork" /></p>
 
-<p><img align="center" src="https://dcbadge.limes.pink/api/shield/291231194723647499&" alt="exzork" /></p>
+<p><img align="center" src="https://dcbadge.limes.pink/api/shield/291231194723647499" alt="exzork" /></p>
 
 
 <h3 align="left">Support:</h3>
