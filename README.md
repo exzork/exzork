@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/muhamamdeko" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamamdeko" height="30" width="40" /></a>
 <a href="https://kaggle.com/muhammadeko" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammadeko" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/muhammadeko_if" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhammadeko_if" height="30" width="40" /></a>
-![](https://dcbadge.limes.pink/api/shield/USERID)
+<img src="https://dcbadge.limes.pink/api/shield/291231194723647499" alt="exzork"/>
 </p>
 
 
@@ -27,7 +27,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=exzork&show_icons=true&locale=en&range=all_time" alt="exzork" /></p>
 
-![](https://dcbadge.limes.pink/api/shield/USERID)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/exzork"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="exzork" /></a></p><br><br>
