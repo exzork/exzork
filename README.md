@@ -10,10 +10,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhamamdeko" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamamdeko" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammadeko" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamamdeko" height="30" width="40" /></a>
 <a href="https://kaggle.com/muhammadeko" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammadeko" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/muhammadeko_if" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhammadeko_if" height="30" width="40" /></a>
-<img src="https://dcbadge.limes.pink/api/shield/291231194723647499" alt="exzork"/>
+<a href="https://discord.com/users/291231194723647499" target="_blank"><img align="center" height="30" src="https://dcbadge.limes.pink/api/shield/291231194723647499" alt="exzork"/>
+</a>
 </p>
 
 
